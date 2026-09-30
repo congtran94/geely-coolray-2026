@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cài đặt chung của xe -->
+    <string name="car_settings_title">Cài Đặt Xe</string>
+    <string name="driving_mode">Chế Độ Lái</string>
+    <string name="mode_eco">Chế độ Tiết kiệm (ECO)</string>
+    <string name="mode_comfort">Chế độ Thoải mái (Comfort)</string>
+    <string name="mode_sport">Chế độ Thể thao (Sport)</string>
+    <string name="mode_adaptive">Chế độ Tự thích ứng (Adaptive)</string>
+    
+    <!-- Hệ thống Điều hòa & Làm mát -->
+    <string name="climate_title">Hệ Thống Điều Hòa</string>
+    <string name="ac_power">Công tắc Làm mát (A/C)</string>
+    <string name="ac_auto">Tự Động (AUTO)</string>
+    <string name="fan_speed">Tốc Độ Quạt Gió</string>
+    <string name="temperature">Nhiệt Độ Điều Hòa</string>
+    <string name="air_recirculation">Lấy Gió Trong</string>
+    <string name="front_defrost">Sấy Kính Chắn Gió Trước</string>
+    <string name="rear_defrost">Sấy Kính Sau &amp; Gương</string>
+    <string name="dual_zone">Điều Hòa Hai Vùng Độc Lập</string>
+
+    <!-- Cửa sổ trời & Cửa kính xe -->
+    <string name="sunroof_control">Điều Khiển Cửa Sổ Trời</string>
+    <string name="sunroof_open">Mở Cửa Sổ Trời</string>
+    <string name="sunroof_close">Đóng Cửa Sổ Trời</string>
+    <string name="sunroof_tilt">Hé Nghiêng Cửa Sổ Trời</string>
+    <string name="sunshade">Rèm Che Nắng Cửa Sổ Trời</string>
+    <string name="auto_close_rain">Tự Động Đóng Cửa Khi Trời Mưa</string>
+    <string name="speed_lock_doors">Tự Động Khóa Cửa Theo Tốc Độ</string>
+
+    <!-- Hệ thống An toàn & Hỗ trợ lái ADAS -->
+    <string name="adas_title">Hệ Thống Hỗ Trợ Lái Xe (ADAS)</string>
+    <string name="lane_keep_assist">Hỗ Trợ Giữ Làn Đường (LKA)</string>
+    <string name="blind_spot_monitor">Cảnh Báo Điểm Mù (BSD)</string>
+    <string name="forward_collision_warning">Cảnh Báo Va Chạm Phía Trước (FCW)</string>
+    <string name="auto_emergency_braking">Phanh Khẩn Cấp Tự Động (AEB)</string>
+    <string name="speed_limit_warning">Cảnh Báo Giới Hạn Tốc Độ</string>
+    <string name="tire_pressure_monitor">Cảm Biến Áp Suất Lốp (TPMS)</string>
+
+    <!-- Hệ thống Đèn & Hiển thị màn hình -->
+    <string name="ambient_lighting">Đèn Viền Nội Thất</string>
+    <string name="auto_headlights">Đèn Pha Tự Động</string>
+    <string name="follow_me_home">Đèn Chờ Dẫn Đường (Follow Me Home)</string>
+    <string name="video_driving_lock">Chặn Video Khi Đang Lái Xe</string>
+</resources>

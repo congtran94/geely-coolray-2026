@@ -1,0 +1,17 @@
+================================================================================
+TRẠNG THÁI CÁC FILE APK TRONG THƯ MỤC /apks (ĐÃ HOÀN TẤT 100%)
+================================================================================
+Tất cả 7 ứng dụng thiết yếu ĐÃ ĐƯỢC TẢI XUỐNG VÀ ĐẶT SẴN trong thư mục này:
+
+1. VietMapLive.apk  (~219 MB) : Bản đồ dẫn đường & Cảnh báo tốc độ thời gian thực
+2. SmartTube.apk    (~26 MB)  : Trình phát YouTube không quảng cáo, tối ưu cho màn hình xe
+3. KikiAuto.apk     (~48 MB)  : Trợ lý giọng nói tiếng Việt Zalo AI (ai.zalo.kiki.car)
+4. CarLauncher.apk  (~12 MB)  : Màn hình khởi chạy chuyên dụng ô tô (Agama Car Launcher)
+5. LabanKey.apk     (~23 MB)  : Bàn phím gõ tiếng Việt có dấu
+6. MoreLocale2.apk  (~6.5 MB) : Công cụ kích hoạt tiếng Việt AOSP hệ thống (Cấp 1)
+7. ButtonMapper.apk (~14.7 MB): Công cụ gán nút Micro trên vô lăng (Key Mapper)
+
+================================================================================
+BẠN KHÔNG CẦN TẢI THỦ CÔNG BẤT KỲ FILE NÀO NỮA!
+Chỉ cần chạy file START_GEELY_UPGRADE.bat tại thư mục gốc để bắt đầu cài đặt.
+================================================================================

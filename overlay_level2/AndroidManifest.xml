@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geely.carsettings.vietnamese.overlay">
+
+    <!-- RRO Overlay cho ung dung Cai dat xe Geely Coolray -->
+    <application 
+        android:hasCode="false" 
+        android:label="Geely Vietnamese Overlay" />
+
+    <!-- targetPackage co the thay doi thanh com.ecarx.settings hoac com.geely.carsettings -->
+    <overlay
+        android:targetPackage="com.geely.carsettings"
+        android:priority="1"
+        android:isStatic="false" />
+</manifest>

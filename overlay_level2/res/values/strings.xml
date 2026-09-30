@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Vehicle Settings -->
+    <string name="car_settings_title">Vehicle Settings</string>
+    <string name="driving_mode">Driving Mode</string>
+    <string name="mode_eco">ECO Mode</string>
+    <string name="mode_comfort">Comfort Mode</string>
+    <string name="mode_sport">Sport Mode</string>
+    <string name="mode_adaptive">Adaptive Mode</string>
+    
+    <!-- Climate & AC -->
+    <string name="climate_title">Climate Control</string>
+    <string name="ac_power">A/C Power</string>
+    <string name="ac_auto">AUTO</string>
+    <string name="fan_speed">Fan Speed</string>
+    <string name="temperature">Temperature</string>
+    <string name="air_recirculation">Air Recirculation</string>
+    <string name="front_defrost">Front Defroster</string>
+    <string name="rear_defrost">Rear Defroster</string>
+    <string name="dual_zone">Dual Zone</string>
+
+    <!-- Sunroof & Windows -->
+    <string name="sunroof_control">Sunroof Control</string>
+    <string name="sunroof_open">Open Sunroof</string>
+    <string name="sunroof_close">Close Sunroof</string>
+    <string name="sunroof_tilt">Tilt Sunroof</string>
+    <string name="sunshade">Sunshade</string>
+    <string name="auto_close_rain">Auto Close on Rain</string>
+    <string name="speed_lock_doors">Speed-Sensing Auto Door Lock</string>
+
+    <!-- ADAS & Safety -->
+    <string name="adas_title">Driver Assistance (ADAS)</string>
+    <string name="lane_keep_assist">Lane Keeping Assist (LKA)</string>
+    <string name="blind_spot_monitor">Blind Spot Detection (BSD)</string>
+    <string name="forward_collision_warning">Forward Collision Warning (FCW)</string>
+    <string name="auto_emergency_braking">Auto Emergency Braking (AEB)</string>
+    <string name="speed_limit_warning">Speed Limit Warning</string>
+    <string name="tire_pressure_monitor">Tire Pressure Monitoring (TPMS)</string>
+
+    <!-- Lighting & Display -->
+    <string name="ambient_lighting">Ambient Light</string>
+    <string name="auto_headlights">Automatic Headlights</string>
+    <string name="follow_me_home">Follow Me Home Light</string>
+    <string name="video_driving_lock">Video Restriction While Driving</string>
+</resources>
